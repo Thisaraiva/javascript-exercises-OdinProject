@@ -11,5 +11,3 @@ const palindromes = function (...args) {
 
 // Do not edit below this line
 module.exports = palindromes;
-
-console.log(palindromes("caracb"));
